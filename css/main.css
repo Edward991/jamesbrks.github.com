@@ -51,15 +51,6 @@ a {
   text-decoration: underline;
 }
 
-.pink pre {
-  font-family: 'Typo Slab Serif';
-  font-size: 22px;
-  color: #ffffff;
-  margin-bottom: 5px;
-  display: inline;
-  font-weight: normal;
-}
-
 .header a:hover {
   opacity: 0.5;
 }
