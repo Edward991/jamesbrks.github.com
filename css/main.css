@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-.blue {
+.pink {
   text-align: center;
   background-color: #FF335D;
   width: 400px;
@@ -30,7 +30,7 @@ a {
   margin-bottom: 10px;
 }
 
-.blue h3 {
+.pink h3 {
   font-family: 'Typo Slab Serif';
   font-size: 22px;
   color: #ffffff;
@@ -39,7 +39,7 @@ a {
   font-weight: normal;
 }
 
-.blue h1 {
+.pink h1 {
   font-family: 'Typo Slab Serif';
   font-size: 48px;
   color: #ffffff;
@@ -47,11 +47,11 @@ a {
   font-weight: normal;
 }
 
-.blue h1:hover {
+.pink h1:hover {
   text-decoration: underline;
 }
 
-.blue pre {
+.pink pre {
   font-family: 'Typo Slab Serif';
   font-size: 22px;
   color: #ffffff;
@@ -187,7 +187,7 @@ a {
 }
 
 #projects-list li:before {
-    contFF335Dent: "•";
+    content: "•";
     font-size: 24px;
     color: #FF335D;
     padding-right: 5px;
